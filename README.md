@@ -6,5 +6,5 @@ Before running ``` flutter run ```, create ```token.dart``` file in ``` lib/util
 Get your API key from openweathermap.
 Write following code in ```token.dart ```\
 ``` 
-const apiKey = "YourAPIKey";
+const String apiKey = "YourAPIKey";
 ```
